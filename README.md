@@ -96,7 +96,7 @@ An example Flask application demonstrating how to use the [WorkOS Python SDK](ht
 
 Follow the [SSO authentication flow instructions](https://workos.com/docs/magic-link/guide) to set up an SSO connection.
 
-When you get to the step where you provide the `REDIRECT_URI` value, use http://localhost:5000/success.
+When you get to the step where you provide the `REDIRECT_URI` value, use http://localhost:5000/success. This must be the default `REDIRECT_URI` in your dashboard if there are multiple. 
 
 If you get stuck, please reach out to us at support@workos.com so we can help.
 
