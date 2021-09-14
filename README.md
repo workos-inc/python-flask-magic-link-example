@@ -1,4 +1,4 @@
-# python-flask-sso-example
+# python-flask-magic-link-example
 An example Flask application demonstrating how to use the [WorkOS Python SDK](https://github.com/workos-inc/workos-python) to authenticate users via Magic Link.
 
 ## Prerequisites
